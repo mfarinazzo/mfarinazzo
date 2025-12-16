@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack | Ciência da Computação @ UNESP`**
 
-Olá! Sou o Murilo, desenvolvedor com sólida base acadêmica e paixão por transformar código em soluções. Na **UNESP**, construí minha lógica com linguagens de baixo e alto nível (C, C++, Java), o que me permite transitar com facilidade por stacks modernas de desenvolvimento Web e Mobile.
+Olá! Sou o Murilo, desenvolvedor com sólida base acadêmica e paixão por transformar código em soluções. Na **UNESP**, construí minha lógica com linguagens de baixo e alto nível, o que me permite transitar com facilidade por stacks modernas de desenvolvimento Web e Mobile, além de desenvolvimentos sólidos na área de analise de dados.
 
 Atualmente, combino essa base técnica com frameworks de mercado para criar aplicações robustas, além de explorar o universo de **Machine Learning** e **Visão Computacional**.
 
@@ -73,11 +73,3 @@ Atualmente, combino essa base técnica com frameworks de mercado para criar apli
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=mfarinazzo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfarinazzo&theme=tokyonight&layout=compact&custom_title=Top+Linguagens&langs_count=8" 
-  />
-</p>
