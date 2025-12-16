@@ -62,14 +62,3 @@ Atualmente, combino essa base técnica com frameworks de mercado para criar apli
 
 <br/>
 <br/>
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mfarinazzo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
